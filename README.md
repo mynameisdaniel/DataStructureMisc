@@ -1,7 +1,7 @@
 DataStructureMisc
 =================
 
-This repo contains examples of [BFS][bfs] and [DFS][dfs] searches. 
+This repo contains examples of [BFS][bfs] and [DFS][dfs] searches using tree structures. 
 Knights Travails finds the knights path given a location on the chess board.
 [Eight queens] [8queens] solves for all combinations of chessboards where 8 queens are placed without attacking each other.
 
